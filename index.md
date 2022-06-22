@@ -2,10 +2,14 @@
 
 # Halloween
 
-##**Also called:**	
+## Also called:
+
                   ***Hallowe'en*
+                  
                   *All Hallowe'en*
+                  
                   *All Hallows' Eve*
+                  
                   *All Saints' Eve***
 
 
