@@ -20,13 +20,13 @@
 -  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
  <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
 
-
+@jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
 # Halloween 🎃🦇👻
 
 
 
-<img width="30%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" /> 
+<img width="30%" align="right" alt="Github Image" src="/pic/unnamed.png" /> 
 
 
  Also called:
