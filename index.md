@@ -2,7 +2,7 @@
 
 #Halloween
 
-<img width="15%" align="right" alt="Github Image" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
+<img width="50%" align="right" alt="Github Image" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
 
 **Halloween** or **Hallowe'en** (a contraction of "All Hallows' evening"), less commonly known as **Allhalloween**,**All Hallows' Eve**, or **All Saints' Eve**, is a celebration observed in many countries on 31 October, the eve of the Western Christian feast of All Hallows' Day. It begins the observance of Allhallowtide, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the departed.
 
