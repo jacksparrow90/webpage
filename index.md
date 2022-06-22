@@ -90,13 +90,7 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [My Github :computer: Repo:](https://github.com/jackhallloween21) <p align="center"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 </p>
@@ -106,7 +100,9 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 
 ## List Of Github Emoji
-<script src="https://gist.github.com/rxaviers/7360908.js"></script>
+<script src="https://gist.github.com/rxaviers/7360908.js">
+
+</script>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
