@@ -72,8 +72,7 @@
   <tr>
         <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-     
-  <td  align="center">
+     <td  align="center">
         <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
  </td>
  <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
