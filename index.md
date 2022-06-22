@@ -2,7 +2,7 @@
 
 # Halloween
 
-## Also called:
+**Also called:**
 
   ***Hallowe'en***
                   
