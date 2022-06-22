@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-#Halloween
+# Halloween
 
-<img width="50%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" />
+<img width="50%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" /> ***Carving a jack-o'-lantern is a common Halloween tradition.***
 
 **Halloween** or **Hallowe'en** (a contraction of "All Hallows' evening"), less commonly known as **Allhalloween**,**All Hallows' Eve**, or **All Saints' Eve**, is a celebration observed in many countries on 31 October, the eve of the Western Christian feast of All Hallows' Day. It begins the observance of Allhallowtide, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the departed.
 
