@@ -2,6 +2,25 @@
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 
+
+- 🔭 I’m currently working on .Telegram Bots,app deployment on heroku,okteto,netlify,free vps.ect
+- 
+- 🌱 I’m currently learning : About Android Custom rom(8-12L) and recovery and kernel , Virtual Machine,Linux, Windows 7-11 (Deveploper Preview), RDP, VNC, MongoDB,Android App Emulation using Android Studio,Telegram Bot,Mac OS or HAckintosh...
+- 
+- 👯 I’m looking to collaborate on ...
+- 
+- 💬 tell me some **jokes**                                    
+- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+- 
+- 🤔 I’m looking for help with some issues in some repos..
+- 
+- 💬 Ask me about ...
+- 
+- 📫 How to reach me:
+-  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
+
+
+
 # Halloween 🎃🦇👻
 
 
