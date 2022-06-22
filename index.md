@@ -101,8 +101,7 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 ## List Of Github Emoji
 
-<script src="https://gist.github.com/rxaviers/7360908.js">
-</script>
+<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
