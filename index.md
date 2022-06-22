@@ -53,7 +53,6 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
  
   <br>
- 
    <img src = "https://activity-graph.herokuapp.com/graph?username=jackhallloween21&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62" />
  
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=([Y.]n.j)" />
@@ -62,6 +61,7 @@
   <p align="center">	
     <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/download.svg" width="500px">
 </p>
+
 </td>
 <td align="center">
 <img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.organization.svg" alt=""></img>
@@ -181,7 +181,6 @@ The modern imagery of Halloween comes from many sources, including Christian esc
 
 ## List Of Github Emoji
 
-<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
