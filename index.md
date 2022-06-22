@@ -3,11 +3,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 
 # Halloween 🎃🦇👻
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
 
 <img width="30%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" /> 
@@ -47,18 +43,17 @@ Beginning in the 4th century, the feast of All Hallows' in the Western Christian
 
 By the end of the 12th century they had become holy days of obligation in Western Christianity and involved such traditions as ringing church bells for souls in purgatory. It was also "customary for criers dressed in black to parade the streets, ringing a bell of mournful sound and calling on all good Christians to remember the poor souls". The Allhallowtide custom of baking and sharing soul cakes for all christened souls, has been suggested as the origin of trick-or-treating. The custom dates back at least as far as the 15th century and was found in parts of England, Wales, Flanders, Bavaria and Austria. Groups of poor people, often children, would go door-to-door during Allhallowtide, collecting soul cakes, in exchange for praying for the dead, especially the souls of the givers' friends and relatives. This was called "souling". Soul cakes were also offered for the souls themselves to eat, or the 'soulers' would act as their representatives. As with the Lenten tradition of hot cross buns, soul cakes were often marked with a cross, indicating they were baked as alms. Shakespeare mentions souling in his comedy The Two Gentlemen of Verona (1593). While souling, Christians would carry "lanterns made of hollowed-out turnips", which could have originally represented souls of the dead; jack-o'-lanterns were used to ward off evil spirits. On All Saints' and All Souls' Day during the 19th century, candles were lit in homes in Ireland, Flanders, Bavaria, and in Tyrol, where they were called "soul lights", that served "to guide the souls back to visit their earthly homes". In many of these places, candles were also lit at graves on All Souls' Day. In Brittany, libations of milk were poured on the graves of kinfolk, or food would be left overnight on the dinner table for the returning souls; a custom also found in Tyrol and parts of Italy.
 
+![This is an image](https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/halloween-dark-night-scenery-background-concept-free-vector.jpg)
+
 Christian minister Prince Sorie Conteh linked the wearing of costumes to the belief in vengeful ghosts: "It was traditionally believed that the souls of the departed wandered the earth until All Saints' Day, and All Hallows' Eve provided one last chance for the dead to gain vengeance on their enemies before moving to the next world. In order to avoid being recognized by any soul that might be seeking such vengeance, people would don masks or costumes". It is claimed that in the Middle Ages, churches that were too poor to display relics of martyred saints at Allhallowtide let parishioners dress up as saints instead. Some Christians observe this custom at Halloween today. Lesley Bannatyne believes this could have been a Christianization of an earlier pagan custom. Many Christians in mainland Europe, especially in France, believed "that once a year, on Hallowe'en, the dead of the churchyards rose for one wild, hideous carnival" known as the danse macabre, which was often depicted in church decoration. Christopher Allmand and Rosamond McKitterick write in The New Cambridge Medieval History that the danse macabre urged Christians "not to forget the end of all earthly things". The danse macabre was sometimes enacted at village pageants and court masques, with people "dressing up as corpses from various strata of society", and this may be the origin of Halloween costume parties.
 
 In Britain, these customs came under attack during the Reformation, as Protestants berated purgatory as a "popish" doctrine incompatible with the Calvinist doctrine of predestination. State-sanctioned ceremonies associated with the intercession of saints and prayer for souls in purgatory were abolished during the Elizabethan reform, though All Hallow's Day remained in the English liturgical calendar to "commemorate saints as godly human beings". For some Nonconformist Protestants, the theology of All Hallows' Eve was redefined; "souls cannot be journeying from Purgatory on their way to Heaven, as Catholics frequently believe and assert. Instead, the so-called ghosts are thought to be in actuality evil spirits". Other Protestants believed in an intermediate state known as Hades (Bosom of Abraham).In some localities, Catholics and Protestants continued souling, candlelit processions, or ringing church bells for the dead; the Anglican church eventually suppressed this bell-ringing. Mark Donnelly, a professor of medieval archaeology, and historian Daniel Diehl write that "barns and homes were blessed to protect people and livestock from the effect of witches, who were believed to accompany the malignant spirits as they traveled the earth". After 1605, Hallowtide was eclipsed in England by Guy Fawkes Night (5 November), which appropriated some of its customs. In England, the ending of official ceremonies related to the intercession of saints led to the development of new, unofficial Hallowtide customs. In 18th–19th century rural Lancashire, Catholic families gathered on hills on the night of All Hallows' Eve. One held a bunch of burning straw on a pitchfork while the rest knelt around him, praying for the souls of relatives and friends until the flames went out. This was known as teen'lay. There was a similar custom in Hertfordshire, and the lighting of 'tindle' fires in Derbyshire.Some suggested these 'tindles' were originally lit to "guide the poor souls back to earth". In Scotland and Ireland, old Allhallowtide customs that were at odds with Reformed teaching were not suppressed as they "were important to the life cycle and rites of passage of local communities" and curbing them would have been difficult.
 
 In parts of Italy until the 15th century, families left a meal out for the ghosts of relatives, before leaving for church services. In 19th-century Italy, churches staged "theatrical re-enactments of scenes from the lives of the saints" on All Hallow's Day, with "participants represented by realistic wax figures". In 1823, the graveyard of Holy Spirit Hospital in Rome presented a scene in which bodies of those who recently died were arrayed around a wax statue of an angel who pointed upward towards heaven. In the same country, "parish priests went house-to-house, asking for small gifts of food which they shared among themselves throughout that night". In Spain, they continue to bake special pastries called "bones of the holy" (Spanish: Huesos de Santo) and set them on graves. At cemeteries in Spain and France, as well as in Latin America, priests lead Christian processions and services during Allhallowtide, after which people keep an all night vigil. In 19th-century San Sebastián, there was a procession to the city cemetery at Allhallowtide, an event that drew beggars who "appeal[ed] to the tender recollectons of one's deceased relations and friends" for sympathy.
 
+<img width="30%" align="left" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/halloweenn.jpg" /> 
 
 
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -77,6 +72,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacksparrow90/webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
