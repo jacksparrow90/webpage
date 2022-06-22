@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages                  
+
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 
 # Halloween
 
 **Also called:**
 
-  ***Hallowe'en***
+ ***Hallowe'en***
                   
  ***All Hallowe'en***
                   
