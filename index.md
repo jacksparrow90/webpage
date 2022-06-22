@@ -4,7 +4,7 @@
 
 # Halloween
 
-**Also called:**
+<h3 align="right">**Also called:**
 
  ***Hallowe'en***
                   
@@ -13,7 +13,7 @@
  ***All Hallows' Eve***
                   
  ***All Saints' Eve***
-
+</h3>
 
 <img width="50%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" /> ***Carving a jack-o'-lantern is a common Halloween tradition.***
 
