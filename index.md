@@ -37,6 +37,13 @@
 </p>
 <br>
 <br>  
+![spotify-github-profile](/default.svg)
+
+![GitHub Snake dark](github-contribution-grid-snake.svg)
+
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
