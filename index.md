@@ -20,7 +20,7 @@
         All Saints' Eve
 </h3>
 
-<h2 align="center"> Carving a jack-o'-lantern is a common Halloween tradition.<h2>
+<h2 align="center"> Carving a jack-o'-lantern is a common Halloween tradition.</h2>
 
 **Halloween** or **Hallowe'en** (a contraction of "All Hallows' evening"), less commonly known as **Allhalloween**,**All Hallows' Eve**, or **All Saints' Eve**, is a celebration observed in many countries on 31 October, the eve of the Western Christian feast of All Hallows' Day. It begins the observance of Allhallowtide, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the departed.
 
