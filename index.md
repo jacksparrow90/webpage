@@ -19,7 +19,9 @@
 - 📫 How to reach me:
 -  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
  <a href="https://www.instagram.com/jack.halloween21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jack.halloween21" height="30" width="40" /></a>
-
+<a href="https://twitter.com/jackhalloween6"
+<a href="https://youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw"
+<a href="https://facebook.com/technohp/"
 @jackhallloween21 :+1: This Repo looks great - it's ready to merge! :shipit:
 
 # Halloween 🎃🦇👻
@@ -71,7 +73,7 @@ In Britain, these customs came under attack during the Reformation, as Protestan
 
 In parts of Italy until the 15th century, families left a meal out for the ghosts of relatives, before leaving for church services. In 19th-century Italy, churches staged "theatrical re-enactments of scenes from the lives of the saints" on All Hallow's Day, with "participants represented by realistic wax figures". In 1823, the graveyard of Holy Spirit Hospital in Rome presented a scene in which bodies of those who recently died were arrayed around a wax statue of an angel who pointed upward towards heaven. In the same country, "parish priests went house-to-house, asking for small gifts of food which they shared among themselves throughout that night". In Spain, they continue to bake special pastries called "bones of the holy" (Spanish: Huesos de Santo) and set them on graves. At cemeteries in Spain and France, as well as in Latin America, priests lead Christian processions and services during Allhallowtide, after which people keep an all night vigil. In 19th-century San Sebastián, there was a procession to the city cemetery at Allhallowtide, an event that drew beggars who "appeal[ed] to the tender recollectons of one's deceased relations and friends" for sympathy.
 
-<img width="30%" align="left" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/halloweenn.jpg" /> 
+<img width="30%" align="left" alt="Github Image" src="/pic/halloweenn.jpg" /> 
 
 
 
@@ -83,7 +85,7 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](pic/halloweenn.jpg)
+[My Github :computer: Repo:](https://github.com/jackhallloween21) and ![Image](/pic/hand-drawn-halloween-background_23-2149064303.webp)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -97,3 +99,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+
+## List Of Github Emoji
+<script src="https://gist.github.com/rxaviers/7360908.js"></script>
