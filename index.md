@@ -59,26 +59,29 @@
 </p> 
   
   <p align="center">	
-    <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/download.svg" width="500px">
+    <img src="/download.svg" width="500px">
 </p>
 
 </td>
 <td align="center">
-<img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="/metrics.organization.svg" alt=""></img>
 </td>
   </tr>
   <tr>
  <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
   <tr>
         <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        
      <td  align="center">
-        <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
+        <details open><summary>With icons</summary><img alt="" width="400" src="/metrics.plugin.topics.icons.svg" alt=""></img></details>
  </td>
+ 
  <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
  <td  align="center">
-        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.svg" alt=""></img></details>
-        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="/metrics.plugin.licenses.svg" alt=""></img></details>
+        
+        <details open><summary>Licenses overview</summary><img alt="" width="400" src="/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
       
@@ -86,12 +89,12 @@
         <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
         
          <td  align="center">
-        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.contributors.categories.svg" alt=""></img></details>
+        <details open><summary>By contribution types</summary><img alt="" width="400" src="metrics.plugin.contributors.categories.svg" alt=""></img></details>
         </td>
         
         <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
         <td  align="center">
-        <img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.skyline.svg" alt=""></img>
+        <img alt="" width="400" src="/metrics.plugin.skyline.svg" alt=""></img>
         <img width="900" height="1" alt="">
       </td>
       
