@@ -88,7 +88,15 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 <img width="30%" align="left" alt="Github Image" src="/pic/halloweenn.jpg" /> 
 
+# Symbols:
+Development of artifacts and symbols associated with Halloween formed over time. Jack-o'-lanterns are traditionally carried by guisers on All Hallows' Eve in order to frighten evil spirits.There is a popular Irish Christian folktale associated with the jack-o'-lantern, which in folklore is said to represent a "soul who has been denied entry into both heaven and hell":
 
+On route home after a night's drinking, Jack encounters the Devil and tricks him into climbing a tree. A quick-thinking Jack etches the sign of the cross into the bark, thus trapping the Devil. Jack strikes a bargain that Satan can never claim his soul. After a life of sin, drink, and mendacity, Jack is refused entry to heaven when he dies. Keeping his promise, the Devil refuses to let Jack into hell and throws a live coal straight from the fires of hell at him. It was a cold night, so Jack places the coal in a hollowed out turnip to stop it from going out, since which time Jack and his lantern have been roaming looking for a place to rest.[146]
+
+In Ireland and Scotland, the turnip has traditionally been carved during Halloween,[147][148] but immigrants to North America used the native pumpkin, which is both much softer and much larger, making it easier to carve than a turnip.[147] The American tradition of carving pumpkins is recorded in 1837[149] and was originally associated with harvest time in general, not becoming specifically associated with Halloween until the mid-to-late 19th century.[150]
+
+
+The modern imagery of Halloween comes from many sources, including Christian eschatology, national customs, works of Gothic and horror literature (such as the novels Frankenstein; or, The Modern Prometheus and Dracula) and classic horror films such as Frankenstein (1931) and The Mummy (1932).[151][152] Imagery of the skull, a reference to Golgotha in the Christian tradition, serves as "a reminder of death and the transitory quality of human life" and is consequently found in memento mori and vanitas compositions;[153] skulls have therefore been commonplace in Halloween, which touches on this theme.[154] Traditionally, the back walls of churches are "decorated with a depiction of the Last Judgment, complete with graves opening and the dead rising, with a heaven filled with angels and a hell filled with devils", a motif that has permeated the observance of this triduum.[155] One of the earliest works on the subject of Halloween is from Scottish poet John Mayne, who, in 1780, made note of pranks at Halloween; "What fearfu' pranks ensue!", as well as the supernatural associated with the night, "Bogies" (ghosts), influencing Robert Burns' "Halloween" (1785).[156] Elements of the autumn season, such as pumpkins, corn husks, and scarecrows, are also prevalent. Homes are often decorated with these types of symbols around Halloween. Halloween imagery includes themes of death, evil, and mythical monsters.[157] Black cats, which have been long associated with witches, are also a common symbol of Halloween. Black, orange, and sometimes purple are Halloween's traditional colors.[158]
 
 
 
@@ -103,8 +111,13 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 <script src="https://gist.github.com/rxaviers/7360908.js"></script>
 
+## Light mode Sun or Dark mode Moon
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+```js
+   const myvar = "hello"
+   module.exports.response = response = ()=>{mycode here}
+    ```
