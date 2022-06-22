@@ -83,7 +83,7 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/halloweenn.jpg)
+[Link](url) and ![Image](pic/halloweenn.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
