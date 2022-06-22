@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 
-# Halloween
+# Halloween 🎃🦇👻
 
 
 
@@ -28,14 +28,16 @@ One theory holds that many Halloween traditions were influenced by Celtic harves
 
 Halloween activities include trick-or-treating (or the related guising and souling), attending Halloween costume parties, carving pumpkins into jack-o'-lanterns, lighting bonfires, apple bobbing, divination games, playing pranks, visiting haunted attractions, telling scary stories, and watching horror or Halloween-themed films.For some people, the Christian religious observances of All Hallows' Eve, including attending church services and lighting candles on the graves of the dead, remain popular,although it is a secular celebration for others.Some Christians historically abstained from meat on All Hallows' Eve, a tradition reflected in the eating of certain vegetarian foods on this vigil day, including apples, potato pancakes, and soul cakes.
 
+# Etymology:
+
+The word *Halloween* or *Hallowe'en* dates to about 1745 and is of Christian origin.The word *Hallowe'en* means "Saints' evening".It comes from a Scottish term for *All Hallows' Eve* (the evening before All Hallows' Day).In Scots, the word *eve* is even, and this is contracted to *e'en* or *een*. Over time, (All) Hallow(s) E(v)en evolved into Hallowe'en. Although the phrase "All Hallows'" is found in Old English, "All Hallows' Eve" is itself not seen until 1556.
 
 
 
 
+    You can use the [editor on GitHub](https://github.com/jacksparrow90/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-You can use the [editor on GitHub](https://github.com/jacksparrow90/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
