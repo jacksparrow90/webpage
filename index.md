@@ -6,7 +6,7 @@
 
 
 
-<img width="50%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" /> 
+<img width="30%" align="right" alt="Github Image" src="https://github.com/jacksparrow90/webpage/blob/gh-pages/pic/unnamed.png" /> 
 
 
  Also called:
