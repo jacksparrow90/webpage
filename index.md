@@ -3,18 +3,18 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack Hallowen, aka ᖫJackHalloween21ᖭ</h2>
 
 
-- 🔭 I’m currently working on .Telegram Bots,app deployment on heroku,okteto,netlify,free vps.ect
+- 🔭 I’m currently working on :Telegram Bots,app deployment on heroku,okteto,netlify,free vps.ect
 - 
 - 🌱 I’m currently learning : About Android Custom rom(8-12L) and recovery and kernel , Virtual Machine,Linux, Windows 7-11 (Deveploper Preview), RDP, VNC, MongoDB,Android App Emulation using Android Studio,Telegram Bot,Mac OS or HAckintosh...
 - 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...(Atleast something important in life)
 - 
 - 💬 tell me some **jokes**                                    
 - ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 - 
 - 🤔 I’m looking for help with some issues in some repos..
 - 
-- 💬 Ask me about ...
+- 💬 Ask me about ...(Nothing, I am Ultimate Noob)
 - 
 - 📫 How to reach me:
 -  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucifermorningstardevil699)
@@ -98,7 +98,10 @@ In parts of Italy until the 15th century, families left a meal out for the ghost
 
 **Bold** and _Italic_ and `Code` text
 
-[My Github :computer: Repo:](https://github.com/jackhallloween21) and ![Image](/pic/hand-drawn-halloween-background_23-2149064303.webp)
+[My Github :computer: Repo:](https://github.com/jackhallloween21) <p align="center"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+</p>
+
+![Image](/pic/hand-drawn-halloween-background_23-2149064303.webp)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
