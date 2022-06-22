@@ -59,6 +59,49 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=([Y.]n.j)" />
 </p> 
   
+  <p align="center">	
+    <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/download.svg" width="500px">
+</p>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.organization.svg" alt=""></img>
+</td>
+  </tr>
+  <tr>
+ <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+  <tr>
+        <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+     
+  <td  align="center">
+        <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
+ </td>
+ <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
+ <td  align="center">
+        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.svg" alt=""></img></details>
+        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+      
+ <td  align="center">
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
+        
+         <td  align="center">
+        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.contributors.categories.svg" alt=""></img></details>
+        </td>
+        
+        <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline 3D calendar</a></th>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/jackhallloween21/jackhallloween21/blob/main/metrics.plugin.skyline.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+      
+   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+  
 # Halloween 🎃🦇👻
 
 
